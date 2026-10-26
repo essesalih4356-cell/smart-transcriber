@@ -579,4 +579,4 @@ document.getElementById('btnShareApp').addEventListener('click', async () => {
 اضغط على ملف باسم .env أو زر Add Variable، واكتب:
 الاسم: GROQ_API_KEY
 القيمة: الصق المفتاح الذي نسخته من الخطوة (1).
-سيعطيك الموقع فوراً رابطاً عاماً بصيغة # smart-transcriber
+سيعطيك الموقع فوراً رابطاً عاماً بصيغة # smart-transcriber 
